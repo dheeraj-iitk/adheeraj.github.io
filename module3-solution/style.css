@@ -1,0 +1,33 @@
+#header-nav{
+    background-color: gray;
+    font-weight: bold;
+    height: 70px;
+    position: relative;
+}
+#head{
+    position: absolute;
+    top:1px;
+    color: black;
+    vertical-align: middle;
+}
+#heading{
+    text-align: center;
+}
+.main-body{
+    background-color: gray;
+    height:1000px;
+}
+.text-center{
+    font-size: 30px;
+}
+.content{
+    margin:0 10px 0 10px;
+}
+#nav-list{
+    background-color:red;
+    text-align: center;
+    
+}
+.list{
+    border-bottom: 1px solid black;
+}
