@@ -24,5 +24,10 @@
     margin:0 10px 0 10px;
 }
 #nav-list{
-    background-color: gray;
+    background-color:red;
+    text-align: center;
+    
+}
+.list{
+    border-bottom: 1px solid black;
 }
